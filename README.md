@@ -1,6 +1,6 @@
 # splash_screen_flutter
 
-A new Flutter project.
+![Project Xia](https://github.com/ProjectXia/images/blob/main/splashscreen.PNG)
 
 ## Getting Started
 
